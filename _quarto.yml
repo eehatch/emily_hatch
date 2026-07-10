@@ -6,7 +6,7 @@ website:
   title: "Emily Hatch - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/eehatch/eehatch.github.io
+  repo-url: https://github.com/username/username.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
@@ -145,6 +145,3 @@ format:
       #dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
-
-
-

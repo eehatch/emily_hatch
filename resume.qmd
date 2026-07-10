@@ -1,7 +1,7 @@
 ---
-layout: cv
-title: Emily Hatch's CV
+title: resume
 ---
+
 # Emily E. Hatch
 
 Technical Problem Solver
