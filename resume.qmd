@@ -2,82 +2,109 @@
 layout: cv
 title: Emily Hatch's CV
 ---
-# Emily Hatch
-Student, IT Pro!
+# Emily E. Hatch
 
-<div id="webaddress">
-<a href="ehatche@gmail.com">ehatche@gmail.com</a>
-</div>
+Technical Problem Solver
 
+ehatche@gmail.com • (206) 661-8497
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+LinkedIn: <http://www.linkedin.com/in/emily-hatch-byui>
 
 
-### Research interests
+### Professional Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Network administration, cybersecurity, IT support, cloud technologies, software development, and solving technical problems.
 
 ## Education
 
-`2015-2019`
-__Tahoma High School, WA__
+`2022–2026`
+__Brigham Young University–Idaho__, Rexburg, ID
 
+- Bachelor of Science in Computer Information Technology
+- Expected Graduation: July 2026
+- GPA: 3.5
+- CompTIA Security+ Certification
 
+## Experience
 
-2019-2026
-__Brigham Young University-Idaho__
+`Jan. 2026 – Apr. 2026`
+__Network Admin Intern__, Sandhill Media Group, Idaho Falls, ID
 
-- Bachelor's
+- Configured and implemented two separate subnets to improve network segmentation with AI-assisted planning.
+- Delivered Tier 1 technical support for Windows and macOS users, minimizing downtime.
+- Assisted with troubleshooting network and workstation issues.
 
+`Apr. 2025 – Sept. 2025`
+__Baker__, Jacob Lake Inn, Fredonia, AZ
 
+- Worked efficiently in a fast-paced team environment.
+- Maintained quality standards while meeting production deadlines.
 
-## Awards
+`May 2024 – Aug. 2024`
+__Applied Tech Intern__, Dimension Studios, London, UK
 
-`2012`
-President, *Royal Society*, London, UK
+- Completed technical projects involving C++ programming and Shader development in Unreal Engine.
+- Worked independently while collaborating effectively with team members both remotely and in person.
 
-Associate, *French Academy of Science*, Paris, France
+`Nov. 2021 – May 2023`
+__Full-Time Volunteer__, The Church of Jesus Christ of Latter-day Saints, Ogden, UT
 
+- Served in a leadership role as a trainer for new volunteers.
+- Worked approximately 70 hours per week developing communication, leadership, and organizational skills.
 
+`Aug. 2021 – Nov. 2021`
+__Emissions Compliance Intern__, PACCAR, Bellevue, WA
 
-## Publications
+- Used Microsoft Office to compile emissions regulations into presentations for senior management.
+- Organized technical information into professional reports.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Projects
 
-### Journals
+`2025`
+__Hackathon Volunteer__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Assisted with logistics and event operations to ensure a successful hackathon.
 
-`1669`
-Lectiones opticæ.
+## Technical Skills
 
-etc. etc. etc.
+### Networking
 
-### Patents
+- Cisco Packet Tracer
+- Router and switch configuration
+- Network troubleshooting
+- Subnetting
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Programming
 
+- HTML
+- CSS
+- JavaScript
+- SQL
+- C++
+- Unreal Engine Shaders
 
-## Occupation
+### Cloud & Tools
 
-`1600`
-__Royal Mint__, London
+- AWS
+- GitHub
+- Microsoft Office
 
-- Warden
-- Minted coins
+### Operating Systems
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Windows
+- macOS
 
+### Certifications
+
+- CompTIA Security+
+
+## Leadership
+
+`2021–2023`
+__Full-Time Volunteer__, The Church of Jesus Christ of Latter-day Saints
+
+- Trained and mentored new volunteers.
+- Developed leadership, communication, and teamwork skills through full-time service.
 
 
 <!-- ### Footer
