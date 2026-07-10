@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Emily Hatch's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Emily Hatch
+Student, IT Pro!
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ehatche@gmail.com">ehatche@gmail.com</a>
 </div>
 
 
@@ -27,18 +26,15 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2019`
+__Tahoma High School, WA__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+2019-2026
+__Brigham Young University-Idaho__
 
-- Fellow
+- Bachelor's
 
 
 
@@ -86,4 +82,4 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: JULY 2026 -->
